@@ -1,3 +1,6 @@
+## Dashboard Preview
+![Customer Insights Dashboard](images/IMG_3339.jpeg)
+
 # Customer Insights Dashboard
 
 This project simulates a real-world BI workflow using SQL, Python, and Tableau/Power BI.
